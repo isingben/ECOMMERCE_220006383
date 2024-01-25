@@ -1,0 +1,47 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.admin{
+	color:white;
+	background-image:url("bac img/5.jpg");
+	width:400px;
+	height:400px;
+	transform: translate(110%,150%);
+	margin-top:-500px;
+}
+.input{
+	padding: 50px;
+	padding-top:15px;
+}
+.input input[type=text]{
+width:300px;
+	height:20px;
+        padding: 20px;
+        margin-top: 100px;
+        margin-left: -20px;
+}
+.input input[type=password]{
+width:300px;
+	height:20px;
+        padding: 20px;
+          margin-top: 20px;
+           margin-left: -20px;
+}
+.admin img{
+	margin-top: -170px;
+	transform: translate(0%,70%);
+	width:400px;
+}
+.input input[type=submit]{
+      margin-top:10px;
+	height:40px;
+	width: 200px;
+	transform: translate(20%);
+	color: black;
+	border-radius: 20px;
+}
+.input input[type=submit]:hover{
+	background-color:green;
+	}
+        

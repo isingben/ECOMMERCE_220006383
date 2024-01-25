@@ -1,0 +1,48 @@
+.footeg {
+    bottom: 0;
+    width: 1100px;
+   background-color:whitesmoke;
+    height: 70px;
+    margin-top:1px;
+    margin-left:90px;
+}
+
+    .footeg h1{
+        color:black;
+        text-align:center;
+        font-family:'Baskerville Old Face';
+    }
+.image img{
+    width: 350px;
+    height: 200px;
+    margin-top: 45px;
+    border: 1px solid black;
+     box-shadow: 20px 20px 20px #dcdcdc;
+	box-shadow:0px 0px 20px #cecece;
+	-moz-transform: scale(0.7);
+	-moz-transition-duration: 0.6s;	
+	-webkit-transition-duration: 0.6s;
+	-webkit-transform: scale(0.7);
+	-ms-transform: scale(0.7);
+	-ms-transition-duration: 0.6s;	
+}
+.image{
+    width:1240px;
+    margin-left:70px;
+}
+.image img:hover{
+   box-shadow: 20px 20px 20px #dcdcdc;
+	-moz-transform: scale(0.8);
+	-moz-transition-duration: 0.6s;
+	-webkit-transition-duration: 0.6s;
+	-webkit-transform: scale(0.8);
+	-ms-transform: scale(0.8);
+	-ms-transition-duration: 0.6s;
+}
+.gall{
+background:url("bac img/14.jpg");
+ width: 1100px;
+ margin-top: -29px;
+ margin-left:90px;
+ background-size: cover;
+ }
